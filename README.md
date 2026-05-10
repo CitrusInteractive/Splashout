@@ -34,7 +34,7 @@ Controls are intentionally simple to keep the focus on movement and painting str
 
 ## Downloads & Releases
 
--# **Note: Currently, Only *windows* is supported, Support for Mac and Linux *will* come in the near future**
+**Note: Currently, Only *windows* is supported, Support for Mac and Linux *will* come in the near future**
 Splashout will be available through GitHub releases as well as on itch.io and IndieDB.
 
 Each release will include a setup installer (Windows) that guides you through installation. Simply download the latest version, run the installer, and launch the game from your desktop or start menu.
