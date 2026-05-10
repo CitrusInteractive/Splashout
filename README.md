@@ -12,7 +12,7 @@ The game is being built as a lightweight, experimental project focused on satisf
 
 Players move freely around a grid-based arena and paint the ground in real time. Every action leaves a visible trail, slowly turning the map into a layered mix of colours.
 
-The main goal is to control as much space as possible. Movement speed, paint coverage, and positioning all matter, especially in tighter matches where space becomes limited.```
+The main goal is to control as much space as possible. Movement speed, paint coverage, and positioning all matter, especially in tighter matches where space becomes limited.
 
 ## Features
 
